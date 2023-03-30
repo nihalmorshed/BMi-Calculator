@@ -31,7 +31,7 @@ class Calculator {
     } else if (_bmi >= 25) {
       return 'Your BMI result is quite high, you should exercise more';
     } else if (_bmi >= 18.5) {
-      return 'Your BMI result is quite normal, good job!';
+      return 'Your BMI result is normal, good job!';
     } else {
       return 'Your BMI result is quite low, you should eat more';
     }
