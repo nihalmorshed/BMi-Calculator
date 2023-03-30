@@ -35,7 +35,7 @@ class resultsPage extends StatelessWidget {
             child: CardBox(
               clr: kactiveCardColor,
               CardBoxchild: Padding(
-                padding: const EdgeInsets.all(8.0),
+                padding: const EdgeInsets.all(20.0),
                 child: Column(
                   mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                   crossAxisAlignment: CrossAxisAlignment.center,
